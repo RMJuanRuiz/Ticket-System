@@ -1,5 +1,5 @@
 {
-    "name": "sockets-fundamentals",
+    "name": "ticket-system",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server/server.js"
     },
-    "author": "",
+    "author": "Juan Ruiz - 2020",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
