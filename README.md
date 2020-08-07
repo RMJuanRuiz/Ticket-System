@@ -22,7 +22,7 @@ If any desk attends a new ticket, this view is automatically updated:
 - If for any reason the server restarts, the list of tickets until that moment remains safe.
 - Every day tickets data is cleaned.
 
-If you want to see and test this system, you can go to https://ticket-system-juan.herokuapp.com/
+If you want to see and test, you can go to https://ticket-system-juan.herokuapp.com/
 
 Remember to run "npm install" if you want to see this project locally.
 
